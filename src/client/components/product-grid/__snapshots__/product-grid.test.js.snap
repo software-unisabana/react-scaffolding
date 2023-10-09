@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductGrid Component should render ProductPreview component 1`] = `ReactWrapper {}`;

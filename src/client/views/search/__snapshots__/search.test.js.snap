@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchView should render SearchView component 1`] = `ReactWrapper {}`;

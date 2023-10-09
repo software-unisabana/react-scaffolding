@@ -1,0 +1,1 @@
+// aca van los endpoint especificos para un recurso o controlador
