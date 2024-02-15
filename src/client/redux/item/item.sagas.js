@@ -7,7 +7,7 @@ import {
 	fetchFailure,
 } from './item.actions';
 
-const baseUrl = 'http://localhost:5003/api/items';
+const baseUrl = 'http://localhost:5004/api/items';
 
 export function* fetchItemsAsync({ payload }) {
 	try {

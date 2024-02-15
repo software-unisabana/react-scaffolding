@@ -6,7 +6,7 @@ const path = require('path');
 const errorHandler = require('./src/middleware/errorHandler');
 
 const app = express();
-const port = process.env.PORT || 5003;
+const port = process.env.PORT || 5004;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
